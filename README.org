@@ -8,4 +8,4 @@ Cylinder diameter: 4.5e-3 m.
 |            0.005 |    0.73 |     0.13 | 0.18 |
 |            0.010 |    0.74 |     0.18 | 0.18 |
 
-St = f*D/U
+This research was enabled in part by support provided by Compute Canada (www.computecanada.ca).
