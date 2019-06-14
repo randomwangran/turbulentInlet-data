@@ -1,0 +1,11 @@
+Flow over circular cylinder at angle of attack 30 degree.
+
+Cylinder diameter: 4.5e-3 m.
+
+| fluctuationScale | Mean Cd | Cl r.m.s |   St |
+|------------------+---------+----------+------|
+|                0 |    0.77 |     0.17 | 0.18 |
+|            0.005 |    0.73 |     0.13 | 0.18 |
+|            0.010 |    0.74 |     0.18 | 0.18 |
+
+St = f*D/U
