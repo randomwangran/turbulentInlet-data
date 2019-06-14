@@ -1,4 +1,4 @@
-Flow over circular cylinder at angle of attack 30 degree.
+Flow over a circular cylinder at an angle of attack: 30 degree.
 
 Cylinder diameter: 4.5e-3 m.
 
